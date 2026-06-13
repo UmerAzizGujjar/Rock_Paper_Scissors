@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+img{
+    height: 150px;
+   
+}
+img:hover{
+    
+    border: solid black;
+    opacity: 0.5;
+}
+.score{
+    display: flex;
+    justify-content: center;
+    gap: 150px ;
+    margin-top: 30px;
+}
+.message{
+    display: flex;
+    justify-content: center;
+   
+}
+.inside{
+    margin-top: 20px;
+    text-align: center;
+   height: 50px;
+    background-color: black;
+    color: beige;
+    width: 150px;
+    border-radius: 20px;
+}
+.choice{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 20px;
+}
+
+.box h4{
+    margin: 0;
+}
